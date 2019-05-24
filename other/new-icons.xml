@@ -1,0 +1,6 @@
+<!-- Binary Eye -->
+<item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="binaryeye"/>
+<!-- p!n -->
+<item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="pn"/>
+<!-- WarnWetter -->
+<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="warnwetter"/>
