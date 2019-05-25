@@ -2,5 +2,9 @@
 <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="binaryeye"/>
 <!-- p!n -->
 <item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="pn"/>
+<!-- Podcast Addict -->
+<item component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}" drawable="podcastaddict"/>
+<!-- Voice -->
+<item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice"/>
 <!-- WarnWetter -->
 <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="warnwetter"/>
