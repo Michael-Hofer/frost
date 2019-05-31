@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="agileplanningpoker.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/Users/michael/Michael/Prog/GitHub/frost_fork/frost/other/agileplanningpoker_preview.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1664"
+     inkscape:window-height="1129"
+     id="namedview6"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-29.694915"
+     inkscape:cy="24"
+     inkscape:window-x="113"
+     inkscape:window-y="7"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 10 4 C 8.892 4 8 4.892 8 6 L 8 42 C 8 43.108 8.892 44 10 44 L 38 44 C 39.108 44 40 43.108 40 42 L 40 6 C 40 4.892 39.108 4 38 4 L 10 4 z M 25.601562 6.3652344 C 27.795254 6.3941834 30.04537 7.1464183 31.783203 8.4921875 C 33.521036 9.8379553 34.744266 11.848975 34.619141 14.232422 C 34.556741 15.421108 34.077909 16.617649 33.238281 17.554688 C 32.398654 18.491726 31.111487 19.167604 29.630859 19.035156 C 28.918533 18.971436 28.231245 18.699662 27.671875 18.216797 C 27.112506 17.733934 26.688243 16.944757 26.822266 16.082031 C 26.885846 15.672717 27.060388 15.31023 27.386719 14.990234 C 27.713051 14.670237 28.305884 14.404063 28.912109 14.529297 C 29.202492 14.589287 29.423861 14.697331 29.648438 14.923828 C 29.873015 15.150324 30.085135 15.6259 29.941406 16.072266 C 29.872326 16.286921 29.789034 16.420201 29.589844 16.582031 C 29.469309 16.679961 29.175059 16.652237 28.921875 16.679688 C 28.957715 16.725527 28.927744 16.772208 28.990234 16.826172 C 29.192071 17.000405 29.550995 17.146354 29.814453 17.169922 C 30.603313 17.240492 31.221105 16.927695 31.746094 16.341797 C 32.271085 15.755898 32.618708 14.892942 32.658203 14.140625 C 32.749463 12.402211 31.905655 10.997104 30.544922 9.9433594 C 29.184189 8.8896153 27.302938 8.2610937 25.574219 8.2382812 C 22.035775 8.1915872 19.167326 9.8381861 17.123047 12.339844 C 15.078769 14.8415 13.927767 18.197097 13.982422 21.347656 C 14.075652 26.721553 16.751761 31.259359 20.78125 34.585938 C 24.810741 37.912518 30.194328 39.985473 35.535156 40.322266 A 0.93630674 0.98243979 89.999999 0 1 36.427734 41.515625 A 0.93630674 0.98243979 89.999999 0 1 35.40625 42.189453 C 29.625797 41.824936 23.872312 39.614779 19.496094 36.001953 C 15.119877 32.389128 12.120841 27.331117 12.017578 21.378906 C 11.955138 17.779767 13.228849 14.057175 15.572266 11.189453 C 17.915681 8.321731 21.399252 6.3097794 25.601562 6.3652344 z "
+     id="rect2"
+     style="fill:#ffffff" />
+</svg>

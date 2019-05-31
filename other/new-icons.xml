@@ -1,5 +1,11 @@
+<!-- Agile Planning Poker -->
+<item component="ComponentInfo{br.com.planning.poker/br.com.planning.poker.app.activity.MainActivity}" drawable="agileplanningpoker"/>
 <!-- Binary Eye -->
 <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="binaryeye"/>
+<!-- Droid48 -->
+<item component="ComponentInfo{org.ab.x48/org.ab.x48.X48}" drawable="droid48"/>
+<!-- GSam Battery Monitor Pro -->
+<item component="ComponentInfo{com.gsamlabs.bbm.pro/com.gsamlabs.bbm.lib.activities.MainActivity}" drawable="gsambatterymonitorpro"/>
 <!-- p!n -->
 <item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="pn"/>
 <!-- Podcast Addict -->
